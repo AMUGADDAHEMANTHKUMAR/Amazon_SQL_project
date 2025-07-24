@@ -197,6 +197,22 @@ FROM new_table
 GROUP BY 1;
 ```
 
+## 📌 Findings and Conclusion
+
+<!-- Introduction for fresher-level context -->
+As someone who recently started learning SQL and data analysis, I took on the task of exploring Amazon Prime's movie and TV show dataset to apply my skills in a practical way. Here are the key insights I discovered:
+
+<!-- Content distribution summary -->
+**Content Distribution**: The platform offers a wide variety of movies and TV shows. This helped me understand how content is distributed across different types and categories.
+
+<!-- Rating pattern insight -->
+**Common Ratings**: I found the most frequent content ratings, which gave me an idea about the general audience Amazon Prime targets.
+
+<!-- Geographical trends from the data -->
+**Geographical Insights**: By analyzing content by country, especially India, I learned how regional trends impact content availability and production.
+
+<!-- Classification logic using keywords -->
+**Content Categorization**: Using keywords like "kill" and "violence," I practiced classifying content into categories like "Good" or "Bad," which helped me understand basic sentiment-style analysis.
 
 
 
