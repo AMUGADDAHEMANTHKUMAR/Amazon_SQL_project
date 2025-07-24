@@ -16,7 +16,7 @@ This project involves a comprehensive analysis of Amazon Prime’s movies and TV
 ## Dataset
 
 Include details about the dataset used, such as:
-- `amazon_prime_titles.csv` file *(update this with the actual file name if different)*
+- `amazon_prime_titles.csv` file 
 - Source of the data (e.g., Kaggle or any public repository)
 
 ## 📊 Business Problems & SQL Solutions
