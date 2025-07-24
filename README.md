@@ -1,4 +1,4 @@
-#Amazon Movies and TV Shows Data Analysis using SQL
+# Amazon Movies and TV Shows Data Analysis using SQL
 
 ![Amazon Prime Logo](https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png)
 
