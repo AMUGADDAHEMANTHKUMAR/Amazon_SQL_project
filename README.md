@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project involves a comprehensive analysis of Netflix’s movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project involves a comprehensive analysis of Amazon Prime’s movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 ## Objectives
 
@@ -16,5 +16,5 @@ This project involves a comprehensive analysis of Netflix’s movies and TV show
 ## Dataset
 
 Include details about the dataset used, such as:
-- `netflix_titles.csv` file
+- `amazon_prime_titles.csv` file *(update this with the actual file name if different)*
 - Source of the data (e.g., Kaggle or any public repository)
