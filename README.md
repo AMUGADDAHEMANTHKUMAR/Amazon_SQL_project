@@ -1,6 +1,6 @@
 #Amazon Movies and TV Shows Data Analysis using SQL
 
-![Amazon prime Logo](https://github.com/AMUGADDAHEMANTHKUMAR/Amazon_SQL_project/blob/main/Amazon%20prime%20img.webp)
+![Amazon Prime Logo](https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png)
 
 ## Overview
 
